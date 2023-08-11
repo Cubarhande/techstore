@@ -1,6 +1,6 @@
 # techstore
 
-techstore  e-commerce website
+techstore  e-commerce website link [https://cubarhande.github.io/techstore/techstorewebsite/index.html]
 
 ** The website Tech-Store.png has been converted to a png format.
 
